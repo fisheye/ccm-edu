@@ -1,3 +1,9 @@
 body{
 	padding-top: 70px;
 }
+form.form-user{
+	max-width: 360px;
+}
+form.form-user div.control-group{
+	margin:15px 0;
+}
